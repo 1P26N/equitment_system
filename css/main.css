@@ -1,0 +1,34 @@
+#top 
+{
+    border-bottom-style:solid;
+    border-bottom-width:1px;
+    border-bottom-color:black;
+    background:#FFFFFF
+}
+
+#sidebar 
+{
+    padding-top:5px;
+    border-right-style:solid;
+    border-right-width: 1px;
+    border-right-color:black;
+    background-color:#FFFFFF
+}
+
+#main
+{
+    border:0px;
+    background:#FFFFFF
+}
+
+#logined
+{
+    position:absolute;
+    right:10px;
+    top:10px;
+}
+
+#li1
+{
+    padding-bottom:2px
+}
